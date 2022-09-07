@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python(Beginner)
 - 💞️ I’m looking to collaborate on Project management/Data Automation 
 - 📫 How to reach me https://twitter.com/jamesset9 
+- Hopefully to interact you and help me as i join the journey to coding
 
 <!---
 JayOffset/JayOffset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
